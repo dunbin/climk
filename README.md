@@ -1,2 +1,28 @@
-# climk
-适用于MacOS上快速调用Ollama模型，从而实现比Apple Intelligence更好的效果。｜Optimized for quick invocation of the Ollama model on MacOS, delivering superior results compared to Apple Intelligence.
+![image](https://github.com/user-attachments/assets/810c03eb-ef0b-4be9-bf91-c3169cf7264c)
+
+## 安装
+- 在发行版本中下载dmg格式文件。
+- 双击dmg文件，将app拖入应用程序文件夹，完成安装。
+- 在启动台点击climk，根据系统提示开通相关权限，完成准备工作。
+- 根据自己的喜好，设置快捷键。
+- enjoy！
+
+## 功能
+为了让各位能更早地享受到苹果AI的魅力，充分发挥苹果电脑系统的强大功能，我特别开发了一款全新的开源软件。
+
+这款软件可以快速调用本地的Ollama模型，只需选中相应文本，轻轻一按快捷键，就能轻松处理，让您获得更加出色的使用体验。
+
+![image](https://github.com/user-attachments/assets/75e0d7ea-55a8-45b6-8ee8-e7be5bf99296)
+
+
+目前已经上线功能包括：
+- 拓展文本
+- 简化文本
+- 改进文本更加友好
+- 改进文本更加严肃
+- 改进文本更加快乐
+- 总结文章
+- 翻译为中文
+- 翻译为英文
+- 简单解释
+- 深度解释
